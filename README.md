@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pepamatousek
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me on GitHub
 
