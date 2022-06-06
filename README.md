@@ -2,7 +2,6 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me on GitHub
 - 🌍 I come from Czech Republic
 
 You can visit website about me in czech language [here](http://pepamatousek.cekuj.net/).
