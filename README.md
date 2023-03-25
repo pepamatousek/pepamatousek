@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pepamatousek
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning JAVA, Python, HTML and CSS
+- 🌱 I’m currently learning JAVA, Python, HTML, CSS, JS and SQL
 - 💞️ I’m looking to collaborate on code
 - 🌍 I come from Czech Republic
 
